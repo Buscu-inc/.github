@@ -1,12 +1,12 @@
-# Busco Oy
+# Buscu Oy
 
 > **IT Service Consultancy** - Transforming businesses through innovative technology solutions
 
-Welcome to Busco Oy's official GitHub organization. We are a dynamic IT service consultancy specializing in delivering cutting-edge technology solutions that drive business growth and digital transformation.
+Welcome to Buscu Oy's official GitHub organization. We are a dynamic IT service consultancy specializing in delivering cutting-edge technology solutions that drive business growth and digital transformation.
 
 ## 🚀 About Us
 
-At Busco Oy, we bridge the gap between technology and business objectives. Our expertise spans across various domains of IT services, helping organizations navigate the complex digital landscape with confidence and strategic insight.
+At Buscu Oy, we bridge the gap between technology and business objectives. Our expertise spans across various domains of IT services, helping organizations navigate the complex digital landscape with confidence and strategic insight.
 
 ### What We Do
 - **Digital Transformation Consulting** - Strategic guidance for modernizing your technology stack
@@ -84,7 +84,7 @@ Ready to discuss your next IT project or explore how we can help your business?
 
 We respond to all inquiries within 24 hours and offer free initial consultations to understand your requirements.
 
-## 🌟 Why Choose Busco Oy?
+## 🌟 Why Choose Buscu Oy?
 
 - **Proven Expertise** - Years of experience across diverse industries and technologies
 - **Client-Centric Approach** - Your success is our primary measure of achievement
